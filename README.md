@@ -37,21 +37,17 @@ The AI (`tryAI` function) follows a strict hierarchy of decisions to determine t
     ```
 3.  **Run the game:**
     ```bash
-    python main.py
+    python AITicTacToe.py
     ```
 4.  Follow the on-screen prompt and enter a number from **1 to 9** to place your X.
 
-## 🔮 Future Improvements
-
-- Add a difficulty selector (Easy vs. Hard).
-- Add a GUI using Tkinter or Pygame.
-- Implement the Minimax Algorithm for mathematically perfect gameplay.
+## 🔮 Future Improvements - Add a GUI using Tkinter or Pygame.
 
 ## 👤 Author
 
-**Student Developer**
+**Shreyas Choudhary**
 *Class 9 | Jyoti Niketan School, Azamgarh*
-- Passionate about Python, Trading algorithms, and AI logic.
+- Passionate about Python, Java, and AI logic.
 
 ---
 *Created with ❤️ and Python.*
