@@ -29,7 +29,7 @@ The AI (`tryAI` function) follows a strict hierarchy of decisions to determine t
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/tictactoe-ai.git](https://github.com/your-username/tictactoe-ai.git)
+    git clone [https://github.com/shreyaschoudharySigma/AITicTacToe.git](https://github.com/shreyaschoudharySigma/AITicTacToe.git)
     ```
 2.  **Navigate to the directory:**
     ```bash
